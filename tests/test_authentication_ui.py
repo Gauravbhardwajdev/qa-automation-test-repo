@@ -1,4 +1,4 @@
-from auth_helpers import login
+from helpers import login
 from logger_config import logger
 from config import GITHUB_USERNAME, GITHUB_TOKEN, GITHUB_BASE_URL, GITHUB_PASSWORD
 from pages.login_page import LoginPage

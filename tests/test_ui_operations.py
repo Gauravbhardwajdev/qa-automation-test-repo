@@ -2,12 +2,12 @@
 import time
 import pytest
 from logger_config import logger
-from auth_helpers import login
+from helpers import login
 from pages.repository_page import RepositoryPage, RepositoryPage
 from config import GITHUB_USERNAME, GITHUB_PASSWORD, GITHUB_BASE_URL
 from playwright.sync_api import expect
 import re
-from auth_helpers import login, test_data
+from helpers import login, test_data
 
 
 # ========================= Test 1: Create Repository =========================
