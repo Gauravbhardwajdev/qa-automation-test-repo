@@ -14,6 +14,7 @@ This repository contains a comprehensive automation framework built to validate 
 ---
 
 ## 📁 Project Structure
+<img width="286" height="609" alt="image" src="https://github.com/user-attachments/assets/deaf12ee-8212-426e-a7db-2d0f4c37c430" />
 
 ---
 
